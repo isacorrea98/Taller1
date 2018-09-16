@@ -18,4 +18,16 @@
 
 **Descripción UML:**
 
-* **Draw**
+* **Main():** Punto de partida en donde se podrán llamar a los demás métodos que hacen parte de nuuestro código.
+
+* **Draw():** Método en el cual se pintáran las figuras de nuestro código.
+
+* **Settings():** Método para definir los parametros. 
+
+* **Setup():** Define el entorno inicial de algunas propiedades.
+
+* **mousePressed():** Cada vez que se presione un botón del mouse se realizará algún cambio.
+
+* **mouseDragged():** Mientras el mouse se mueve y un botón del mismo el presionado sucede un cambio.
+
+* **mouseReleased():** Cada que se suelta el botón del mouse se genera un cambio.
