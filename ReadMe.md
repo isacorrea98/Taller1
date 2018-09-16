@@ -15,3 +15,5 @@
 ![][1]  
 
 [1]:Taller1_UML.jpg
+
+**Descripción UML:**
