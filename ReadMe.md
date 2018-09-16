@@ -10,6 +10,6 @@
 **Correo:** isabelitacorreacarvajal@gmail.com
 
 ### Objetivos
-* Aplicativo que contenga un lienzo que permita la participación transformativa de los usuarios logrando cambios sobre la aplicación a ravés de diversas interacciones con el mouse y el teclado.
+* Aplicativo que contenga un lienzo que permita la participación transformativa de los usuarios logrando cambios sobre la aplicación a ravés de diversas interacciones con el mouse y el teclado.  
 ![][1]
 [1]:Taller1_UML.jpg
